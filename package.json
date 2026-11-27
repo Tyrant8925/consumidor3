@@ -1,0 +1,1 @@
+{"name":"ahorro-plus-v2","version":"2.0.0","private":true,"description":"Prototipo académico Ahorro+ con API REST y modo local","scripts":{"start":"node server.js","test":"node --test tests.js"},"engines":{"node":">=18"}}
